@@ -1,0 +1,137 @@
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\appsettings.json
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.exe
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.deps.json
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.runtimeconfig.json
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.runtimeconfig.dev.json
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\ref\DB2ClassExercise.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.pdb
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.Views.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.Views.pdb
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.csproj.AssemblyReference.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.AssemblyInfoInputs.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.AssemblyInfo.cs
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorAssemblyInfo.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorAssemblyInfo.cs
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\staticwebassets\DB2ClassExercise.StaticWebAssets.Manifest.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\staticwebassets\DB2ClassExercise.StaticWebAssets.xml
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\scopedcss\bundle\DB2ClassExercise.styles.css
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.TagHelpers.input.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.TagHelpers.output.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorCoreGenerate.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorTargetAssemblyInfo.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorTargetAssemblyInfo.cs
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.Views.pdb
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\ref\DB2ClassExercise.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.pdb
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.genruntimeconfig.cache
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.csproj.CopyComplete
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zola\source\repos\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Home\ViewCourse.cshtml.g.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\appsettings.json
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.exe
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.deps.json
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.runtimeconfig.json
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.runtimeconfig.dev.json
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\ref\DB2ClassExercise.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.pdb
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.Views.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.Views.pdb
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.AssemblyInfoInputs.cache
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.AssemblyInfo.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorAssemblyInfo.cache
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorAssemblyInfo.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\staticwebassets\DB2ClassExercise.StaticWebAssets.Manifest.cache
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\staticwebassets\DB2ClassExercise.StaticWebAssets.xml
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\scopedcss\bundle\DB2ClassExercise.styles.css
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.TagHelpers.input.cache
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.TagHelpers.output.cache
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorCoreGenerate.cache
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Home\ViewCourse.cshtml.g.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorTargetAssemblyInfo.cache
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorTargetAssemblyInfo.cs
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.Views.pdb
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.csproj.CopyComplete
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\ref\DB2ClassExercise.dll
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.pdb
+C:\Users\U11186438\Documents\Teaching @ UP\2022\INF272\Database 2\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.genruntimeconfig.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\appsettings.json
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.exe
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.deps.json
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.runtimeconfig.json
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.runtimeconfig.dev.json
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\ref\DB2ClassExercise.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.pdb
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.Views.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\DB2ClassExercise.Views.pdb
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.csproj.AssemblyReference.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.AssemblyInfoInputs.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.AssemblyInfo.cs
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorAssemblyInfo.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorAssemblyInfo.cs
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\staticwebassets\DB2ClassExercise.StaticWebAssets.Manifest.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\staticwebassets\DB2ClassExercise.StaticWebAssets.xml
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\scopedcss\bundle\DB2ClassExercise.styles.css
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.TagHelpers.input.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.TagHelpers.output.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorCoreGenerate.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Home\ViewCourse.cshtml.g.cs
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorTargetAssemblyInfo.cache
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.RazorTargetAssemblyInfo.cs
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.Views.pdb
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.csproj.CopyComplete
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\ref\DB2ClassExercise.dll
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.pdb
+C:\Users\U11186438\source\repos\DB2ClassExercise\DB2ClassExercise\DB2ClassExercise\obj\Debug\net5.0\DB2ClassExercise.genruntimeconfig.cache

@@ -1,0 +1,35 @@
+﻿@model List<Marked_Assignment>
+
+<div class="text-center">
+    <h1 class="display-4">Assignm</h1>
+
+    @if (@Model.Count() == 0)
+    {
+        <p>Assignements</p>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var marked in Model)
+            {
+                <div class="col-lg-3" style="margin:auto">
+                    <div class="card" style="width: 18rem;">
+
+                        <div class="card-body">
+                            <img src="image/coffeeimage" />
+                            @if (marked.getAssignmentsOfCourse())
+                            {
+                                <p>@marked.getAvailableCourse()</p>
+                                <p>Submited by : @marked.Student_ID</p>
+                                <p>Marked by : @marked.Marker_ID</p>
+                            }
+
+                        </div>
+                    </div>
+                </div>
+
+            }
+        </div>
+
+    }
+</div>
